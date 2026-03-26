@@ -25,6 +25,9 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 </p>
 
 ---
+<p align="center">
+ I look forward to working with you.
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Thanks+for+coming+see+you+next+time!+✨" alt="Typing SVG" />
