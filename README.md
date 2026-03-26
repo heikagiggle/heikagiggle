@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> I'm Emmanuella!
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Emmanuella!
 
 A passionate Frontend Developer focused on building clean, user-friendly digital products.
 
