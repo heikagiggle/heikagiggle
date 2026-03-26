@@ -11,7 +11,7 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,css,html,git,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,css,html,git" />
   </a>
 </p>
 
