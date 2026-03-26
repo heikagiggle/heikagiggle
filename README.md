@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emmanuella!
+## Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Emmanuella!
 
 A passionate Frontend Developer focused on building clean, user-friendly digital products.
 
