@@ -20,7 +20,7 @@ A passionate Frontend Developer focused on building clean, user-friendly digital
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=heikagiggle&show_icons=true&theme=tokyonight&count_private=true" alt="heikagiggle's GitHub stats" height="150" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=heikagiggle&show_icons=true&theme=tokyonight&count_private=true" alt="heikagiggle's GitHub stats" height="150" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heikagiggle&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150" />
 </p>
 
