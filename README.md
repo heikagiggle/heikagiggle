@@ -1,11 +1,10 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Emmanuella!
 
-A passionate Frontend Developer focused on building clean, user-friendly digital products.
-
-- 🌱 I’m currently learning and expanding my skills to **AI Engineering**.
-- 🔭 I’m currently working on some exciting Next.js and Python projects.
+A Software Engineer with a strong interest in distributed systems, software reliability, and **AI Engineering**. I focus on designing scalable, maintainable architectures rather than just shipping code.
+- 🌱 Exploring the intersection of rigorous software engineering and **AI/ML pipelines**.
+- 🔭 Currently building full-stack applications with Python, TypeScript, and Next.js, focusing on performance optimization and clean design patterns.
 - 😄 Pronouns: **she/her/weird**
-- ⚡ Fun fact: If I had a dollar for every time someone called me weird, I'd be as rich as Bill and Elon.
+- ⚡ Fun fact: If I had a dollar for every time someone called me weird, I'd be as rich as Bill and Elon and probably fund my own research lab.
 
 ### 🛠️ Tech Stack & Tools
 
