@@ -2,8 +2,8 @@
 
 A passionate Frontend Developer focused on building clean, user-friendly digital products.
 
-- 🌱 I’m currently learning and expanding my skills to go **Fullstack**.
-- 🔭 I’m currently working on some exciting React and Next.js projects.
+- 🌱 I’m currently learning and expanding my skills to go **AI Engineering**.
+- 🔭 I’m currently working on some exciting Next.js and Python projects.
 - 😄 Pronouns: **she/her/weird**
 - ⚡ Fun fact: If I had a dollar for every time someone called me weird, I'd be as rich as Bill.
 
